@@ -1,69 +1,126 @@
-Molecular Precision
-Biological design. Built to standard.
+# Molecular Precision  
+**Biological design. Built to standards.**
 
-Overview
-Molecular Precision is a specialist consultancy in biological design, synthetic biology, and nanomedicine. Our work focuses on the application of open design standards — principally the Synthetic Biology Open Language (SBOL) — to the challenge of making biological systems more reproducible, more regulatory-ready, and more computationally tractable.
-We publish selected open frameworks, tools, and analytical work here as a contribution to the wider biological design community.
+Molecular Precision is a specialist consultancy working at the intersection of **biological design, synthetic biology, and nanomedicine**.
 
-Core Focus Areas
-Biological Design Standards
-Development and application of SBOL3-compliant frameworks for representing complex biological systems in machine-readable, interoperable formats.
-Nanomedicine Design Infrastructure
-Structured approaches to nanoparticle therapeutic design — from molecular composition through particle architecture, biological interaction, manufacturing process, and clinical outcome — built around the Nanomedicine Design Stack framework.
-Regulatory Translation
-Mapping biological design standards to Chemistry, Manufacturing and Controls requirements across the MHRA, EMA, and FDA. Supporting Pharmaceutical Quality by Design objectives through structured documentation.
-Biological Data Infrastructure
-All work is aligned with The BioChain — a framework for secure, traceable biological data integrity, ensuring that biological designs and the data surrounding them can be trusted, traced, and audited across their full lifecycle.
-🔗 www.thebiochain.com
+The work focuses on the application of formal design standards — principally the **Synthetic Biology Open Language (SBOL)** — to improve the **reproducibility**, **traceability**, and **regulatory alignment** of biological systems.
 
-The Nanomedicine Design Stack
-A conceptual framework developed by Molecular Precision mapping the five layers at which design decisions are made in nanoparticle therapeutics:
-LayerDomainFocusL5Clinical OutcomeEfficacy · Safety · BiodistributionL4Manufacturing ProcessCMC · Batch consistency · Site transferL3Biological InteractionCellular uptake · Immunogenicity · TargetingL2Particle ArchitectureSize · Surface charge · PEGylation · CargoL1Molecular CompositionLipid ratios · Nucleic acid payload · Excipients
-SBOL3 provides the unifying machine-readable representation across all five layers.
+Selected frameworks, tools, and analytical work are published here as a contribution to the biological design and standards community.
 
-Repositories
-Work published here spans:
+---
 
-SBOL3 framework development for nanomedicine applications
-Lipid nanoparticle design documentation analysis
-Reproducibility and regulatory mapping frameworks
-Biological design tools and reference implementations
+## Scope
 
+### Biological Design Standards
+Development and application of **SBOL3-compliant representations** for complex biological systems, enabling machine-readable, interoperable design descriptions.
 
-Approach
-Molecular Precision work is built around four principles:
-Precision — biological designs described with the specificity required to reproduce, transfer, and trust them.
-Standards — SBOL3 and complementary open standards as the foundation for interoperable biological design.
-Reproducibility — structured, machine-readable representations that reduce interpretive variability and support systematic learning.
-Regulatory readiness — documentation practices aligned with the direction of travel of MHRA, EMA, and FDA requirements.
+### Nanomedicine Design
+Structured approaches to nanoparticle therapeutic design across:
 
-Publications and Writing
-Analytical articles, white papers, and commentary on biological design standards, nanomedicine infrastructure, and regulatory translation are published at:
-🔗 www.molecularprecision.com
+- molecular composition  
+- particle architecture  
+- biological interaction  
+- manufacturing process  
+- clinical outcome  
 
-Consultancy
-Molecular Precision provides specialist consultancy in:
+This work is organised through the **Nanomedicine Design Stack**.
 
-SBOL-compliant biological design frameworks
-Nanoparticle therapeutic design documentation
-CMC strategy and regulatory alignment
-Biological data infrastructure and provenance
+### Regulatory Translation
+Mapping structured biological design representations to **Chemistry, Manufacturing and Controls (CMC)** requirements across:
 
-Contact: hello@molecularprecision.com
-LinkedIn: (https://www.linkedin.com/company/112659936)
-Website: www.molecular-precision.com
+- MHRA  
+- EMA  
+- FDA  
 
-Connected Work
+Supporting alignment with **Pharmaceutical Quality by Design (QbD)** principles.
+
+### Biological Data Infrastructure
+Work is aligned with **The BioChain**, a framework for biological data integrity and provenance, supporting:
+
+- traceability across the design lifecycle  
+- auditability of biological data  
+- secure handling of design and experimental records  
+
+---
+
+## The Nanomedicine Design Stack
+
+A framework describing the layers at which design decisions are made in nanoparticle therapeutics:
+
+| Layer | Domain | Focus |
+|------|--------|-------|
+| L5 | Clinical Outcome | Efficacy · Safety · Biodistribution |
+| L4 | Manufacturing Process | CMC · Batch consistency · Site transfer |
+| L3 | Biological Interaction | Cellular uptake · Immunogenicity · Targeting |
+| L2 | Particle Architecture | Size · Surface charge · PEGylation · Cargo |
+| L1 | Molecular Composition | Lipid ratios · Nucleic acid payload · Excipients |
+
+**SBOL3** provides a consistent, machine-readable representation across all layers.
+
+---
+
+## Repositories
+
+Repositories published under this organisation include:
+
+- SBOL3 extensions and frameworks for nanomedicine applications  
+- Lipid nanoparticle design documentation analysis  
+- Reproducibility and regulatory mapping frameworks  
+- Biological design tools and reference implementations  
+
+---
+
+## Approach
+
+Molecular Precision work is structured around four principles:
+
+- **Precision**  
+  Biological designs described with the specificity required to reproduce, transfer, and verify  
+
+- **Standards**  
+  SBOL3 and complementary open standards as the foundation for interoperable biological design  
+
+- **Reproducibility**  
+  Machine-readable representations that reduce interpretive variability and support systematic learning  
+
+- **Regulatory alignment**  
+  Documentation practices aligned with MHRA, EMA, and FDA expectations  
+
+---
+
+## Connected Work
+
 Molecular Precision sits within a broader ecosystem of biological systems work:
-The BioChainBiological data integrity and traceability infrastructure — www.thebiochain.com
-One Health SecurityBiosecurity and epidemiological modelling — www.onehealthsecurity.com
 
-Author
-Ashley Morgan
-Founder, Molecular Precision
-Founder and CEO, The BioChain
-Founder, One Health Security
+- **The BioChain**  
+  Biological data integrity and traceability infrastructure  
+  https://www.thebiochain.com  
+
+- **One Health Security**  
+  Biosecurity and epidemiological modelling  
+  https://www.onehealthsecurity.com  
+
+---
+
+## Links
+
+**Website** — https://www.molecular-precision.com  
+**GitHub** — https://github.com/MolecularPrecision  
+**LinkedIn** — https://www.linkedin.com/company/112659936  
+**Contact** — hello@molecular-precision.com  
+
+---
+
+## Author
+
+**Ashley Morgan**  
+Founder, Molecular Precision  
+Founder and CEO, The BioChain  
+Founder, One Health Security  
+
 Focus areas: biological design standards · nanomedicine infrastructure · biosecurity · regulatory science · biological data integrity
+
+---
 
 © 2026 Molecular Precision
 
