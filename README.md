@@ -87,6 +87,20 @@ Molecular Precision work is structured around four principles:
   Documentation practices aligned with MHRA, EMA, and FDA expectations  
 
 ---
+## Source formulation
+
+The SM-102 lipid nanoparticle composition modelled in this repository
+is drawn from publicly available FDA regulatory documentation for the
+Moderna mRNA-1273 COVID-19 vaccine, including the Emergency Use
+Authorisation submission and associated Chemistry, Manufacturing and
+Controls data.
+
+This repository does not reproduce that documentation. It demonstrates
+a structured SBOL3 representation of the formulation as a reference
+implementation.
+
+> FDA Emergency Use Authorization submission for mRNA-1273:
+> https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/moderna-covid-19-vaccine
 
 ## Connected Work
 
