@@ -120,6 +120,8 @@ Founder, One Health Security
 
 Focus areas: biological design standards · nanomedicine infrastructure · biosecurity · regulatory science · biological data integrity
 
+Enquiries and collaboration welcome at hello@molecular-precision.com
+
 ---
 
 © 2026 Molecular Precision
